@@ -34,9 +34,10 @@ h1{
     color: #575757;
 }
 p{
-    font-size: 25px;
+    font-size: 18px;
     margin-top: 30px;
     margin-bottom: 30px;
+    
     text-align: justify;
     color: #575757;
 }
@@ -70,4 +71,56 @@ a{
 h2{
     font-size: 50px;
     color: #575757;
+}
+.lower-body{
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+.lower-body h2{
+    text-align: center;
+    margin-left: 93px;
+    
+
+}
+
+.lower-body p{
+    text-align: center;
+    text-align: justify;
+    margin-left: 26px;
+    text-align: justify;
+    margin-right: 26px;
+}
+.lower-contain{
+
+}
+
+
+.lower-body-left{
+    width: 50%;
+    margin-left: 60px;
+    padding: 40px;
+    padding-left: 20px;
+    box-shadow: 1px 1px 5px 5px rgb(189, 182, 182);
+    border-radius: 10px;
+    margin-right: 10px;
+    
+}
+.lower-body-right img{
+    width: 500px;
+    padding: 20px;
+    padding-bottom: 0px;
+
+}
+h3{
+    font-size: 20px;
+}
+.lower-body-right{
+    width: 50%;
+    margin-right: 70px;
+    margin-left: 10px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px 5px rgb(189, 182, 182);
+    border-radius: 10px;
 }
