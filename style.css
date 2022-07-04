@@ -80,7 +80,7 @@ h2{
 }
 .lower-body h2{
     text-align: center;
-    margin-left: 93px;
+    
     
 
 }
@@ -88,16 +88,18 @@ h2{
 .lower-body p{
     text-align: center;
     text-align: justify;
-    margin-left: 26px;
-    text-align: justify;
     margin-right: 26px;
+    text-align: center;
 }
-.lower-contain{
+.lower-left p{
+    text-align: left;
+    padding-left: 30px;
+    text-align: justify;
 
 }
 
 
-.lower-body-left{
+.lower-left{
     width: 50%;
     margin-left: 60px;
     padding: 40px;
@@ -107,16 +109,24 @@ h2{
     margin-right: 10px;
     
 }
-.lower-body-right img{
+.lower-right img{
     width: 500px;
     padding: 20px;
     padding-bottom: 0px;
 
 }
+.lower-right p{
+    text-align: left;
+    padding-left: 30px;
+    text-align: justify;
+
+}
 h3{
     font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
 }
-.lower-body-right{
+.lower-right{
     width: 50%;
     margin-right: 70px;
     margin-left: 10px;
