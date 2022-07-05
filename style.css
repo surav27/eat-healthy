@@ -134,3 +134,63 @@ h3{
     box-shadow: 1px 1px 5px 5px rgb(189, 182, 182);
     border-radius: 10px;
 }
+.bottom-sec{
+   
+
+    
+}
+.bottom-box{
+    
+}
+.bottom-text{
+    width: 100%;
+    
+    
+}
+
+.box-shadow{
+    margin: 20px;
+
+}
+.bottom-text h4{
+    float: right;
+    margin-right: 308px;
+    font-size: 28px;
+    margin-bottom: 0pc;
+    margin-top: 65px;
+    
+}
+
+.bottom-text-two{
+    width: 100%;
+    
+    
+}
+.bottom-text-two p{
+    float: right;
+    margin-right: 209px;
+    padding: 0px;
+
+}
+.footer-sec{
+    overflow: hidden;
+    padding: 104px;
+    background-color: #0B0D17;
+    height: 50px;
+    
+}
+.footer-sec h4{
+    text-align: center;
+    color: #5B5B5B;
+    font-size: 28px;
+    margin: 0px;
+}
+.footer-sec p{
+    text-align: center;
+    color: wheat;
+    font-size: 15px;
+    margin: 35px;
+}
+.eat-color{
+    color: #FB964B;
+}
